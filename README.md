@@ -1,3 +1,3 @@
-- bacon
-- eggs
-- bread
+- bacon is best
+- eggs are okay
+- bread is okay
